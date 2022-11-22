@@ -1,7 +1,7 @@
 <h1 align="center">News-API</h1>
 
-Requirements: Python 3.*, requests, json, csv, pandas, tkinter, tkinter.ttk, sys
-Optional: pyinstaller
+<p>Requirements: Python 3.*, requests, json, csv, pandas, tkinter, tkinter.ttk, sys</p>
+<p>Optional: pyinstaller</p>
 
 Required changes: Line 30 and 55 (path to ico img and API key)
 Optional changes: Line 22, 59, 61, 63 (tkinter window name and file names)
