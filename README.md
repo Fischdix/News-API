@@ -20,7 +20,7 @@ To do:
 -Fix CSV conversion to human readable
 -Create function to pull the article photo and use Python Image Processing(PIL) to edit the photo to become ready for Instagram post.
 
-<p align="center">![image](https://user-images.githubusercontent.com/59261070/203343476-f93037fa-d5cd-467a-b018-d43102223c44.png)</p>
+![image](https://user-images.githubusercontent.com/59261070/203343476-f93037fa-d5cd-467a-b018-d43102223c44.png)
 
 
 
