@@ -3,8 +3,8 @@
 <p>Requirements: Python 3.*, requests, json, csv, pandas, tkinter, tkinter.ttk, sys</p>
 <p>Optional: pyinstaller</p>
 
-Required changes: Line 30 and 55 (path to ico img and API key)
-Optional changes: Line 22, 59, 61, 63 (tkinter window name and file names)
+<p>Required changes: Line 30 and 55 (path to ico img and API key)</p>
+<p>Optional changes: Line 22, 59, 61, 63 (tkinter window name and file names)</p>
 
 <h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
 This script uses a VERY simple tkinter GUI in conjunction with newsapi.org to communicate with the top-headlines endpoint using my API key. 
