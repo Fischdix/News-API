@@ -19,8 +19,11 @@ To do:
 -Create multiple buttons for different API search criteria (breaking news, trending, politics, etc)
 -Fix CSV conversion to human readable
 -Create function to pull the article photo and use Python Image Processing(PIL) to edit the photo to become ready for Instagram post.
+-Remove "This is a label" :P
 
-![image](https://user-images.githubusercontent.com/59261070/203343476-f93037fa-d5cd-467a-b018-d43102223c44.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59261070/203343476-f93037fa-d5cd-467a-b018-d43102223c44.png" />
+</p>
 
 
 
